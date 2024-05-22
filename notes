@@ -1,0 +1,8 @@
+how to acccess static variable ?
+
+a. static context - directly
+b. using instance / object
+c. using class name
+
+how to access instance variable ?
+using instance / object only
